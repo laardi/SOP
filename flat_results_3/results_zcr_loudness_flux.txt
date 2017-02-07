@@ -1,0 +1,60 @@
+Testing all samples of the database...
+Class: raphiphop | nr of samples: 10 |
+Results: funksoulrnb: 1 | male: 1 | raphiphop: 7 | water: 1 | 
+Accuracy: 70.00%
+----------------------
+Class: phonering | nr of samples: 5 |
+Results: dog: 1 | phonering: 4 | 
+Accuracy: 80.00%
+----------------------
+Class: thunder | nr of samples: 3 |
+Results: thunder: 3 | 
+Accuracy: 100.00%
+----------------------
+Class: alarm | nr of samples: 7 |
+Results: dog: 2 | phonering: 2 | thunder: 1 | water: 2 | 
+Accuracy: 0.00%
+----------------------
+Class: jazz | nr of samples: 10 |
+Results: dog: 1 | funksoulrnb: 1 | jazz: 5 | raphiphop: 1 | rock: 2 | 
+Accuracy: 50.00%
+----------------------
+Class: dog | nr of samples: 8 |
+Results: dog: 4 | male: 1 | phonering: 1 | water: 2 | 
+Accuracy: 50.00%
+----------------------
+Class: cat | nr of samples: 2 |
+Results: phonering: 1 | thunder: 1 | 
+Accuracy: 0.00%
+----------------------
+Class: water | nr of samples: 10 |
+Results: dog: 2 | female: 2 | male: 1 | raphiphop: 2 | water: 3 | 
+Accuracy: 30.00%
+----------------------
+Class: steps | nr of samples: 4 |
+Results: female: 2 | male: 1 | steps: 1 | 
+Accuracy: 25.00%
+----------------------
+Class: female | nr of samples: 10 |
+Results: female: 9 | water: 1 | 
+Accuracy: 90.00%
+----------------------
+Class: rock | nr of samples: 10 |
+Results: funksoulrnb: 2 | jazz: 1 | male: 2 | raphiphop: 5 | 
+Accuracy: 0.00%
+----------------------
+Class: male | nr of samples: 10 |
+Results: jazz: 1 | male: 9 | 
+Accuracy: 90.00%
+----------------------
+Class: funksoulrnb | nr of samples: 10 |
+Results: funksoulrnb: 3 | jazz: 2 | phonering: 2 | raphiphop: 2 | steps: 1 | 
+Accuracy: 30.00%
+----------------------
+Class: bird | nr of samples: 7 |
+Results: dog: 2 | jazz: 2 | raphiphop: 1 | water: 2 | 
+Accuracy: 0.00%
+----------------------
+Total number of samples: 106
+Classifier Correctly: 48
+Total accuracy: 45.28%

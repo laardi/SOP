@@ -1,0 +1,1128 @@
+Total accuracy: 50.00%
+Total accuracy: 42.45%
+results_energy_flux_loudness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 53.77%
+Total accuracy: 51.89%
+results_energy_flux_obsi.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 53.77%
+Total accuracy: 54.72%
+results_energy_flux_sharpness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 50.94%
+Total accuracy: 43.40%
+results_energy_flux_spread.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 50.94%
+Total accuracy: 44.34%
+results_energy_flux_zcr.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 50.00%
+Total accuracy: 42.45%
+results_energy_loudness_flux.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 57.55%
+Total accuracy: 48.11%
+results_energy_loudness_sharpness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 50.94%
+results_energy_loudness_spread.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 56.60%
+results_energy_loudness_variation.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 58.49%
+results_energy_loudness_zcr.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 53.77%
+Total accuracy: 50.94%
+results_energy_mfcc_sharpness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 51.89%
+Total accuracy: 51.89%
+results_energy_mfcc_spread.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 57.55%
+Total accuracy: 55.66%
+results_energy_mfcc_variation.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 53.77%
+Total accuracy: 54.72%
+results_energy_mfcc_zcr.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 53.77%
+Total accuracy: 51.89%
+results_energy_obsi_flux.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 53.77%
+Total accuracy: 54.72%
+results_energy_sharpness_flux.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 57.55%
+Total accuracy: 48.11%
+results_energy_sharpness_loudness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 53.77%
+Total accuracy: 50.94%
+results_energy_sharpness_mfcc.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 58.49%
+Total accuracy: 55.66%
+results_energy_sharpness_spread.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 51.89%
+results_energy_sharpness_zcr.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 50.94%
+Total accuracy: 43.40%
+results_energy_spread_flux.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 50.94%
+results_energy_spread_loudness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 51.89%
+Total accuracy: 51.89%
+results_energy_spread_mfcc.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 58.49%
+Total accuracy: 55.66%
+results_energy_spread_sharpness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 59.43%
+Total accuracy: 60.38%
+results_energy_spread_zcr.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 56.60%
+results_energy_variation_loudness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 57.55%
+Total accuracy: 55.66%
+results_energy_variation_mfcc.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 50.94%
+Total accuracy: 44.34%
+results_energy_zcr_flux.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 58.49%
+results_energy_zcr_loudness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 53.77%
+Total accuracy: 54.72%
+results_energy_zcr_mfcc.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 51.89%
+results_energy_zcr_sharpness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 59.43%
+Total accuracy: 60.38%
+results_energy_zcr_spread.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 50.00%
+Total accuracy: 42.45%
+results_flux_energy_loudness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 53.77%
+Total accuracy: 51.89%
+results_flux_energy_obsi.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 53.77%
+Total accuracy: 54.72%
+results_flux_energy_sharpness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 50.94%
+Total accuracy: 43.40%
+results_flux_energy_spread.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 50.94%
+Total accuracy: 44.34%
+results_flux_energy_zcr.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 50.00%
+Total accuracy: 42.45%
+results_flux_loudness_energy.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 50.00%
+Total accuracy: 45.28%
+results_flux_loudness_mfcc.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 51.89%
+results_flux_loudness_obsi.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 51.89%
+Total accuracy: 53.77%
+results_flux_loudness_sharpness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 50.00%
+Total accuracy: 45.28%
+results_flux_mfcc_loudness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 54.72%
+Total accuracy: 52.83%
+results_flux_mfcc_obsi.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 50.00%
+Total accuracy: 44.34%
+results_flux_mfcc_variation.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 50.00%
+Total accuracy: 46.23%
+results_flux_mfcc_zcr.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 53.77%
+Total accuracy: 51.89%
+results_flux_obsi_energy.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 51.89%
+results_flux_obsi_loudness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 54.72%
+Total accuracy: 52.83%
+results_flux_obsi_mfcc.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 51.89%
+results_flux_obsi_sharpness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 51.89%
+results_flux_obsi_spread.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 51.89%
+results_flux_obsi_variation.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 51.89%
+results_flux_obsi_zcr.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 53.77%
+Total accuracy: 54.72%
+results_flux_sharpness_energy.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 51.89%
+Total accuracy: 53.77%
+results_flux_sharpness_loudness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 51.89%
+results_flux_sharpness_obsi.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 54.72%
+Total accuracy: 53.77%
+results_flux_sharpness_spread.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 53.77%
+results_flux_sharpness_variation.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 53.77%
+results_flux_sharpness_zcr.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 50.94%
+Total accuracy: 43.40%
+results_flux_spread_energy.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 51.89%
+results_flux_spread_obsi.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 54.72%
+Total accuracy: 53.77%
+results_flux_spread_sharpness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 50.00%
+Total accuracy: 44.34%
+results_flux_variation_mfcc.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 51.89%
+results_flux_variation_obsi.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 53.77%
+results_flux_variation_sharpness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 50.94%
+Total accuracy: 44.34%
+results_flux_zcr_energy.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 50.00%
+Total accuracy: 46.23%
+results_flux_zcr_mfcc.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 51.89%
+results_flux_zcr_obsi.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 53.77%
+results_flux_zcr_sharpness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 50.00%
+Total accuracy: 42.45%
+results_loudness_energy_flux.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 57.55%
+Total accuracy: 48.11%
+results_loudness_energy_sharpness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 50.94%
+results_loudness_energy_spread.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 56.60%
+results_loudness_energy_variation.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 58.49%
+results_loudness_energy_zcr.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 50.00%
+Total accuracy: 42.45%
+results_loudness_flux_energy.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 50.00%
+Total accuracy: 45.28%
+results_loudness_flux_mfcc.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 51.89%
+results_loudness_flux_obsi.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 51.89%
+Total accuracy: 53.77%
+results_loudness_flux_sharpness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 50.00%
+Total accuracy: 45.28%
+results_loudness_mfcc_flux.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 52.83%
+results_loudness_mfcc_sharpness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 53.77%
+Total accuracy: 58.49%
+results_loudness_mfcc_spread.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 53.77%
+results_loudness_mfcc_variation.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 50.94%
+Total accuracy: 54.72%
+results_loudness_mfcc_zcr.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 51.89%
+results_loudness_obsi_flux.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 57.55%
+Total accuracy: 48.11%
+results_loudness_sharpness_energy.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 51.89%
+Total accuracy: 53.77%
+results_loudness_sharpness_flux.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 52.83%
+results_loudness_sharpness_mfcc.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 56.60%
+Total accuracy: 55.66%
+results_loudness_sharpness_spread.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 55.66%
+results_loudness_sharpness_variation.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 54.72%
+Total accuracy: 49.06%
+results_loudness_sharpness_zcr.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 50.94%
+results_loudness_spread_energy.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 53.77%
+Total accuracy: 58.49%
+results_loudness_spread_mfcc.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 56.60%
+Total accuracy: 55.66%
+results_loudness_spread_sharpness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 53.77%
+results_loudness_spread_variation.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 58.49%
+Total accuracy: 62.26%
+results_loudness_spread_zcr.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 56.60%
+results_loudness_variation_energy.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 53.77%
+results_loudness_variation_mfcc.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 55.66%
+results_loudness_variation_sharpness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 53.77%
+results_loudness_variation_spread.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 58.49%
+results_loudness_zcr_energy.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 50.94%
+Total accuracy: 54.72%
+results_loudness_zcr_mfcc.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 54.72%
+Total accuracy: 49.06%
+results_loudness_zcr_sharpness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 58.49%
+Total accuracy: 62.26%
+results_loudness_zcr_spread.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 53.77%
+Total accuracy: 50.94%
+results_mfcc_energy_sharpness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 51.89%
+Total accuracy: 51.89%
+results_mfcc_energy_spread.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 57.55%
+Total accuracy: 55.66%
+results_mfcc_energy_variation.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 53.77%
+Total accuracy: 54.72%
+results_mfcc_energy_zcr.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 50.00%
+Total accuracy: 45.28%
+results_mfcc_flux_loudness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 54.72%
+Total accuracy: 52.83%
+results_mfcc_flux_obsi.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 50.00%
+Total accuracy: 44.34%
+results_mfcc_flux_variation.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 50.00%
+Total accuracy: 46.23%
+results_mfcc_flux_zcr.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 50.00%
+Total accuracy: 45.28%
+results_mfcc_loudness_flux.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 52.83%
+results_mfcc_loudness_sharpness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 53.77%
+Total accuracy: 58.49%
+results_mfcc_loudness_spread.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 53.77%
+results_mfcc_loudness_variation.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 50.94%
+Total accuracy: 54.72%
+results_mfcc_loudness_zcr.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 54.72%
+Total accuracy: 52.83%
+results_mfcc_obsi_flux.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 53.77%
+Total accuracy: 50.94%
+results_mfcc_sharpness_energy.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 52.83%
+results_mfcc_sharpness_loudness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 62.26%
+results_mfcc_sharpness_spread.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 57.55%
+Total accuracy: 56.60%
+results_mfcc_sharpness_variation.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 57.55%
+Total accuracy: 54.72%
+results_mfcc_sharpness_zcr.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 51.89%
+Total accuracy: 51.89%
+results_mfcc_spread_energy.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 53.77%
+Total accuracy: 58.49%
+results_mfcc_spread_loudness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 62.26%
+results_mfcc_spread_sharpness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 57.55%
+Total accuracy: 59.43%
+results_mfcc_spread_variation.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 56.60%
+Total accuracy: 59.43%
+results_mfcc_spread_zcr.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 57.55%
+Total accuracy: 55.66%
+results_mfcc_variation_energy.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 50.00%
+Total accuracy: 44.34%
+results_mfcc_variation_flux.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 53.77%
+results_mfcc_variation_loudness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 57.55%
+Total accuracy: 56.60%
+results_mfcc_variation_sharpness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 57.55%
+Total accuracy: 59.43%
+results_mfcc_variation_spread.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 56.60%
+Total accuracy: 59.43%
+results_mfcc_variation_zcr.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 53.77%
+Total accuracy: 54.72%
+results_mfcc_zcr_energy.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 50.00%
+Total accuracy: 46.23%
+results_mfcc_zcr_flux.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 50.94%
+Total accuracy: 54.72%
+results_mfcc_zcr_loudness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 57.55%
+Total accuracy: 54.72%
+results_mfcc_zcr_sharpness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 56.60%
+Total accuracy: 59.43%
+results_mfcc_zcr_spread.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 56.60%
+Total accuracy: 59.43%
+results_mfcc_zcr_variation.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 53.77%
+Total accuracy: 51.89%
+results_obsi_energy_flux.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 53.77%
+Total accuracy: 51.89%
+results_obsi_flux_energy.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 51.89%
+results_obsi_flux_loudness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 54.72%
+Total accuracy: 52.83%
+results_obsi_flux_mfcc.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 51.89%
+results_obsi_flux_sharpness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 51.89%
+results_obsi_flux_spread.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 51.89%
+results_obsi_flux_variation.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 51.89%
+results_obsi_flux_zcr.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 51.89%
+results_obsi_loudness_flux.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 54.72%
+Total accuracy: 52.83%
+results_obsi_mfcc_flux.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 51.89%
+results_obsi_sharpness_flux.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 51.89%
+results_obsi_spread_flux.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 51.89%
+results_obsi_variation_flux.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 51.89%
+results_obsi_zcr_flux.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 53.77%
+Total accuracy: 54.72%
+results_sharpness_energy_flux.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 57.55%
+Total accuracy: 48.11%
+results_sharpness_energy_loudness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 53.77%
+Total accuracy: 50.94%
+results_sharpness_energy_mfcc.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 58.49%
+Total accuracy: 55.66%
+results_sharpness_energy_spread.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 51.89%
+results_sharpness_energy_zcr.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 53.77%
+Total accuracy: 54.72%
+results_sharpness_flux_energy.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 51.89%
+Total accuracy: 53.77%
+results_sharpness_flux_loudness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 51.89%
+results_sharpness_flux_obsi.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 54.72%
+Total accuracy: 53.77%
+results_sharpness_flux_spread.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 53.77%
+results_sharpness_flux_variation.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 53.77%
+results_sharpness_flux_zcr.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 57.55%
+Total accuracy: 48.11%
+results_sharpness_loudness_energy.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 51.89%
+Total accuracy: 53.77%
+results_sharpness_loudness_flux.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 52.83%
+results_sharpness_loudness_mfcc.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 56.60%
+Total accuracy: 55.66%
+results_sharpness_loudness_spread.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 55.66%
+results_sharpness_loudness_variation.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 54.72%
+Total accuracy: 49.06%
+results_sharpness_loudness_zcr.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 53.77%
+Total accuracy: 50.94%
+results_sharpness_mfcc_energy.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 52.83%
+results_sharpness_mfcc_loudness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 62.26%
+results_sharpness_mfcc_spread.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 57.55%
+Total accuracy: 56.60%
+results_sharpness_mfcc_variation.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 57.55%
+Total accuracy: 54.72%
+results_sharpness_mfcc_zcr.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 51.89%
+results_sharpness_obsi_flux.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 58.49%
+Total accuracy: 55.66%
+results_sharpness_spread_energy.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 54.72%
+Total accuracy: 53.77%
+results_sharpness_spread_flux.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 56.60%
+Total accuracy: 55.66%
+results_sharpness_spread_loudness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 62.26%
+results_sharpness_spread_mfcc.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 59.43%
+Total accuracy: 59.43%
+results_sharpness_spread_variation.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 54.72%
+Total accuracy: 57.55%
+results_sharpness_spread_zcr.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 53.77%
+results_sharpness_variation_flux.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 55.66%
+results_sharpness_variation_loudness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 57.55%
+Total accuracy: 56.60%
+results_sharpness_variation_mfcc.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 59.43%
+Total accuracy: 59.43%
+results_sharpness_variation_spread.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 59.43%
+Total accuracy: 59.43%
+results_sharpness_variation_zcr.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 51.89%
+results_sharpness_zcr_energy.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 53.77%
+results_sharpness_zcr_flux.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 54.72%
+Total accuracy: 49.06%
+results_sharpness_zcr_loudness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 57.55%
+Total accuracy: 54.72%
+results_sharpness_zcr_mfcc.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 54.72%
+Total accuracy: 57.55%
+results_sharpness_zcr_spread.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 59.43%
+Total accuracy: 59.43%
+results_sharpness_zcr_variation.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 50.94%
+Total accuracy: 43.40%
+results_spread_energy_flux.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 50.94%
+results_spread_energy_loudness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 51.89%
+Total accuracy: 51.89%
+results_spread_energy_mfcc.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 58.49%
+Total accuracy: 55.66%
+results_spread_energy_sharpness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 59.43%
+Total accuracy: 60.38%
+results_spread_energy_zcr.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 50.94%
+Total accuracy: 43.40%
+results_spread_flux_energy.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 51.89%
+results_spread_flux_obsi.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 54.72%
+Total accuracy: 53.77%
+results_spread_flux_sharpness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 50.94%
+results_spread_loudness_energy.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 53.77%
+Total accuracy: 58.49%
+results_spread_loudness_mfcc.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 56.60%
+Total accuracy: 55.66%
+results_spread_loudness_sharpness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 53.77%
+results_spread_loudness_variation.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 58.49%
+Total accuracy: 62.26%
+results_spread_loudness_zcr.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 51.89%
+Total accuracy: 51.89%
+results_spread_mfcc_energy.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 53.77%
+Total accuracy: 58.49%
+results_spread_mfcc_loudness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 62.26%
+results_spread_mfcc_sharpness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 57.55%
+Total accuracy: 59.43%
+results_spread_mfcc_variation.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 56.60%
+Total accuracy: 59.43%
+results_spread_mfcc_zcr.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 51.89%
+results_spread_obsi_flux.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 58.49%
+Total accuracy: 55.66%
+results_spread_sharpness_energy.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 54.72%
+Total accuracy: 53.77%
+results_spread_sharpness_flux.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 56.60%
+Total accuracy: 55.66%
+results_spread_sharpness_loudness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 62.26%
+results_spread_sharpness_mfcc.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 59.43%
+Total accuracy: 59.43%
+results_spread_sharpness_variation.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 54.72%
+Total accuracy: 57.55%
+results_spread_sharpness_zcr.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 53.77%
+results_spread_variation_loudness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 57.55%
+Total accuracy: 59.43%
+results_spread_variation_mfcc.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 59.43%
+Total accuracy: 59.43%
+results_spread_variation_sharpness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 59.43%
+Total accuracy: 60.38%
+results_spread_zcr_energy.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 58.49%
+Total accuracy: 62.26%
+results_spread_zcr_loudness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 56.60%
+Total accuracy: 59.43%
+results_spread_zcr_mfcc.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 54.72%
+Total accuracy: 57.55%
+results_spread_zcr_sharpness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 56.60%
+results_variation_energy_loudness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 57.55%
+Total accuracy: 55.66%
+results_variation_energy_mfcc.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 50.00%
+Total accuracy: 44.34%
+results_variation_flux_mfcc.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 51.89%
+results_variation_flux_obsi.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 53.77%
+results_variation_flux_sharpness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 56.60%
+results_variation_loudness_energy.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 53.77%
+results_variation_loudness_mfcc.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 55.66%
+results_variation_loudness_sharpness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 53.77%
+results_variation_loudness_spread.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 57.55%
+Total accuracy: 55.66%
+results_variation_mfcc_energy.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 50.00%
+Total accuracy: 44.34%
+results_variation_mfcc_flux.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 53.77%
+results_variation_mfcc_loudness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 57.55%
+Total accuracy: 56.60%
+results_variation_mfcc_sharpness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 57.55%
+Total accuracy: 59.43%
+results_variation_mfcc_spread.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 56.60%
+Total accuracy: 59.43%
+results_variation_mfcc_zcr.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 51.89%
+results_variation_obsi_flux.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 53.77%
+results_variation_sharpness_flux.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 55.66%
+results_variation_sharpness_loudness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 57.55%
+Total accuracy: 56.60%
+results_variation_sharpness_mfcc.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 59.43%
+Total accuracy: 59.43%
+results_variation_sharpness_spread.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 59.43%
+Total accuracy: 59.43%
+results_variation_sharpness_zcr.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 53.77%
+results_variation_spread_loudness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 57.55%
+Total accuracy: 59.43%
+results_variation_spread_mfcc.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 59.43%
+Total accuracy: 59.43%
+results_variation_spread_sharpness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 56.60%
+Total accuracy: 59.43%
+results_variation_zcr_mfcc.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 59.43%
+Total accuracy: 59.43%
+results_variation_zcr_sharpness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 50.94%
+Total accuracy: 44.34%
+results_zcr_energy_flux.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 58.49%
+results_zcr_energy_loudness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 53.77%
+Total accuracy: 54.72%
+results_zcr_energy_mfcc.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 51.89%
+results_zcr_energy_sharpness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 59.43%
+Total accuracy: 60.38%
+results_zcr_energy_spread.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 50.94%
+Total accuracy: 44.34%
+results_zcr_flux_energy.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 50.00%
+Total accuracy: 46.23%
+results_zcr_flux_mfcc.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 51.89%
+results_zcr_flux_obsi.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 53.77%
+results_zcr_flux_sharpness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 58.49%
+results_zcr_loudness_energy.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 50.94%
+Total accuracy: 54.72%
+results_zcr_loudness_mfcc.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 54.72%
+Total accuracy: 49.06%
+results_zcr_loudness_sharpness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 58.49%
+Total accuracy: 62.26%
+results_zcr_loudness_spread.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 53.77%
+Total accuracy: 54.72%
+results_zcr_mfcc_energy.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 50.00%
+Total accuracy: 46.23%
+results_zcr_mfcc_flux.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 50.94%
+Total accuracy: 54.72%
+results_zcr_mfcc_loudness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 57.55%
+Total accuracy: 54.72%
+results_zcr_mfcc_sharpness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 56.60%
+Total accuracy: 59.43%
+results_zcr_mfcc_spread.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 56.60%
+Total accuracy: 59.43%
+results_zcr_mfcc_variation.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 51.89%
+results_zcr_obsi_flux.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 55.66%
+Total accuracy: 51.89%
+results_zcr_sharpness_energy.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 52.83%
+Total accuracy: 53.77%
+results_zcr_sharpness_flux.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 54.72%
+Total accuracy: 49.06%
+results_zcr_sharpness_loudness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 57.55%
+Total accuracy: 54.72%
+results_zcr_sharpness_mfcc.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 54.72%
+Total accuracy: 57.55%
+results_zcr_sharpness_spread.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 59.43%
+Total accuracy: 59.43%
+results_zcr_sharpness_variation.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 59.43%
+Total accuracy: 60.38%
+results_zcr_spread_energy.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 58.49%
+Total accuracy: 62.26%
+results_zcr_spread_loudness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 56.60%
+Total accuracy: 59.43%
+results_zcr_spread_mfcc.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 54.72%
+Total accuracy: 57.55%
+results_zcr_spread_sharpness.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 56.60%
+Total accuracy: 59.43%
+results_zcr_variation_mfcc.txt
+>>>>>>>>>>>>>>>>>>>>>>
+Total accuracy: 59.43%
+Total accuracy: 59.43%
+results_zcr_variation_sharpness.txt
+>>>>>>>>>>>>>>>>>>>>>>
