@@ -1,0 +1,1 @@
+SOP, eli sulautetun ohjelmisto projekti. Vuonna 2015 kasaan raavittu audiosignaalien luokittelija jonka tulosten perusteella on kirjoitettu kandintyö. Projektiin osallistui allekirjoittaneen lisäksi kaksi muuta henkilöä, T.Laurila sekä A.Husa. Ohjelma ajetaan main.py tiedostosta. Äänitiedostot joilla luokittelijaa opetettiin ovat hukkuneet.
