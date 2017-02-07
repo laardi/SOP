@@ -1,9 +1,0 @@
-Testing all samples of the database...
-Class: dog | nr of samples: 8 |
-Results: dog: 6 | male: 1 | water: 1 | 
-Accuracy: 75.00%
-----------------------
-Class: cat | nr of samples: 2 |
-Results: dog: 1 | thunder: 1 | 
-Accuracy: 0.00%
-----------------------
